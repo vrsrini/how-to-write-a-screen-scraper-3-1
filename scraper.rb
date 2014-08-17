@@ -1,3 +1,4 @@
+require 'scraperwiki'
 ###############################################################################
 # START HERE: Tutorial 3: More advanced scraping. Shows how to follow 'next' 
 # links from page to page.  We use functions, so you can call the same code 
